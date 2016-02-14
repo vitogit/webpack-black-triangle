@@ -24,7 +24,7 @@
     "url": "https://github.com/jamesknelson/webpack-black-triangle.git"
   },
   "scripts": {
-    "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
+    "start": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "keywords": [
     "webpack",
